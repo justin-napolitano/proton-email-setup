@@ -21,6 +21,11 @@ seoSecondaryKeywords:
   - dns configuration
   - email dns setup
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The post is about automating DNS record setup for ProtonMail using a Bash script and Cloudflare
+  API, which matches automation family focused on scripting and automation of workflows well.
 ---
 
 # proton-email-setup: Automating ProtonMail DNS Configuration with Cloudflare API
@@ -82,4 +87,5 @@ The project consists of a single Bash script (`setup_proton_dns.sh`) that:
 ## Summary
 
 This project provides a practical, minimalistic automation tool for configuring ProtonMail DNS records on Cloudflare-managed domains. It reduces manual setup complexity by leveraging the Cloudflare API and standard shell scripting. While basic, it forms a foundation for more comprehensive DNS management automation in email infrastructure setups.
+
 
