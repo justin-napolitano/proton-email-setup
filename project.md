@@ -1,19 +1,29 @@
 ---
 slug: github-proton-email-setup
 id: github-proton-email-setup
-title: proton-email-setup
+title: Automate ProtonMail DNS Setup with Cloudflare API Script
 repo: justin-napolitano/proton-email-setup
 githubUrl: https://github.com/justin-napolitano/proton-email-setup
 generatedAt: '2025-11-24T21:36:00.376Z'
 source: github-auto
 summary: >-
-  A shell script to automate the configuration of DNS records for ProtonMail
-  email setup using the Cloudflare API. This repository provides a streamlined
-  way to manage ProtonMail DNS requirements programmatically.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  This guide covers a shell script for automating ProtonMail DNS configuration
+  using the Cloudflare API.
+tags:
+  - protonmail
+  - cloudflare
+  - dns
+  - bash
+  - curl
+  - jq
+seoPrimaryKeyword: protonmail dns automation
+seoSecondaryKeywords:
+  - cloudflare api integration
+  - dns record setup
+  - bash scripting
+  - email configuration
+  - protonmail setup
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
